@@ -33,7 +33,7 @@ Show the Colorizer dialog:
 colorizer.ui.show()
 ```
 
-Named colors that were chosen to be cohesive with the default Maya color theme.
+Available named colors, chosen to be cohesive with the default Maya color theme:
 
 - red
 - peach 
